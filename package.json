@@ -1,0 +1,12 @@
+{
+  "name": "fleet-health",
+  "version": "1.0.0",
+  "description": "Tiny fleet health and webhook receiver service for Render (Free, 512 MB).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
